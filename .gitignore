@@ -1,0 +1,13 @@
+.env
+auth_info/
+auth_info.backup-*/
+node_modules/
+group-data.json
+settings.json
+*.log
+*.tar.gz
+GNU nano*
+index.js.backup*
+index.js.before-*
+index.js.damaged
+index.js.pre-*
